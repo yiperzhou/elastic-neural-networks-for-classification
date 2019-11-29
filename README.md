@@ -20,7 +20,6 @@ To cite our work, please use the following bibtex entry.
 
 #### run experiments
 ```
-cd elastic/pytorch_code
 python main.py
 ```
 
