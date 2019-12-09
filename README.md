@@ -16,7 +16,9 @@ To cite our work, please use the following bibtex entry.
 ```
 #### proposed method  
 
-<img src="https://github.com/yipersevere/Elastic-Neural-Networks-for-Classification_PyTorch/blob/master/model_arch.PNG" alt="elastic_neural_networks" width="900"/>
+<img src="https://github.com/yipersevere/elastic-neural-networks-for-classification/blob/master/model_arch.PNG" alt="elastic_neural_networks" width="900"/>
+
+
 
 ### experiments
 
